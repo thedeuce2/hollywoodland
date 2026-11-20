@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Local saves & editor files
+*_save.json
+hollywoodland_save*.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Separate local modding / TMDb roster tools & external roster packs
+tools/
+Launch TMDb Roster Builder.bat
+rosters/
